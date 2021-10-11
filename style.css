@@ -1,0 +1,11 @@
+.container{
+    margin-top: 200px;
+    margin-left: 350px;
+    width: 550px;
+    height: 200px;
+    padding-top: 100px;
+    text-align: center;
+    background-color: aqua;
+    border: pink 1px solid;
+    font-size: 50px;
+}
